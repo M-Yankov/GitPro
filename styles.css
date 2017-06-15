@@ -1,0 +1,12 @@
+body {
+   font-family: Consolas;
+   font-size: 16px;
+}
+
+body table tr td, body table tr {
+    border: none;
+}
+
+body table tr td {
+    margin: 10px;
+}
