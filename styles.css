@@ -10,3 +10,6 @@ body table tr td, body table tr {
 body table tr td {
     margin: 10px;
 }
+body table tr {
+    padding: 5px;
+}
